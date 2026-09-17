@@ -36,8 +36,8 @@ php artisan storage:link
 
 A default admin account is created automatically by the seeder:
 
-- **Email:** `admin@kasiraku.test`
-- **Password:** `password`
+- **Email:** `admintoko@gmail.com`
+- **Password:** `Toko112233`
 
 ```bash
 php artisan serve
