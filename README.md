@@ -4,7 +4,7 @@ Kasiraku adalah aplikasi kasir untuk toko yang menangani pencatatan transaksi pe
 
 ### Tampilan
 
-Login.png
+![teks alternatif](Login.png)
 
 ## Installation
 
